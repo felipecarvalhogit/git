@@ -94,18 +94,25 @@ git commit -m "Sua mensagem"
 21) Deletar ramo <br>
 `git branch -D nome-do-ramo`
 
-22) Adicionando um ponto remoto do GitHub:
+22)📍 Adicionando um ponto remoto do GitHub📍:
 <br> *git* *remote* *add* + *nome-do-ponto* + *URL* <br>
 ```
 git remote add origin https://github.com/felipecarvalhogit/git
 ```
 > Lista as URLs: `git remote -v`
 
-23) Enviando ramos com arquivos para o Github:<br>
+23)📍 Enviando ramos com arquivos para o Github 📍:<br>
 *git* *push* + *nome-do-ponto* + *nome-do-ramo*
 ```
 git push origin master
 ```
+24) 📍 Copiando um repositório do Github ara o servidor local 📍 :<br>
+No repositório do Github :octocat: clique no botão "Clone or Download"<br>
+Copie a url do diretório<br>
+No prompt, do servidor local (no destino), insira o  comando<br>
+``
+
+<hr />
 
 <h3>Outros Comandos</h3>
 
