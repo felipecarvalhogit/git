@@ -107,6 +107,13 @@ git remote add origin https://github.com/felipecarvalhogit/git
 git push origin master
 ```
 
+<h3>Outros Comandos</h3>
+
+*Apagar pasta*
+`rm -rf nome-da-pasta`
+
+<hr />
+
 # GitHub :octocat:
 [GitHub Docs](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax)
 
