@@ -89,7 +89,7 @@ git commit -m "Sua mensagem"
 19) Navegando para o ramo: ` git checkout nome-do-ramo `
 
 20) Juntando um ramo <br>
-`git merge nom-do-ramo`
+`git merge nome-do-ramo`
 
 21) Deletar ramo <br>
 `git branch -D nome-do-ramo`
