@@ -106,11 +106,19 @@ git remote add origin https://github.com/felipecarvalhogit/git
 ```
 git push origin master
 ```
-24) 📍 Copiando um repositório do Github ara o servidor local 📍 :<br>
+24) 📍 Copiando um repositório do Github para o servidor local 📍 :<br>
 No repositório do Github :octocat: clique no botão "Clone or Download"<br>
 Copie a url do diretório<br>
 No prompt, do servidor local (no destino), insira o  comando<br>
-``
+*git* *clone* + *URL* + *nome-da-pasta-nova-no-local*
+```
+git clone URldoRepositório pasta
+```
+
+25) 📍 Atualizando repositório local com o Github 📍<br>
+*git* *pull* + *nome-do-ponto-remoto* + *nome-do-ramo*
+`git pull origin master`
+
 
 <hr />
 
