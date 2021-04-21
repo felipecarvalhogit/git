@@ -116,9 +116,10 @@ git clone URldoRepositório pasta
 ```
 
 25) 📍 Atualizando repositório local com o Github 📍<br>
-*git* *pull* + *nome-do-ponto-remoto* + *nome-do-ramo*
-`git pull origin master`
-
+*git* *pull* + *nome-do-ponto-remoto* + *nome-do-ramo-recebedor-local*
+```
+git pull origin master
+```
 
 <hr />
 
