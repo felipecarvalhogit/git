@@ -181,6 +181,8 @@ Como exemplo, vou escolher os seguintes parâmetros: <br><br>
 ```
 Exemplo: <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/><br>
   
-
+## BÔNUS
+Tutorial animado completo do git e github<br>
+https://learngitbranching.js.org/?demo=&locale=pt_BR
     
 
